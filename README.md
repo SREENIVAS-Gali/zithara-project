@@ -29,8 +29,7 @@ The setup instructions for both the server and client:
 
 ### Client Setup
 1. **Clone the Repository**: Clone this GitHub repository to your local machine.
-2. **Database Setup**: Set up a PostgreSQL database and run the scripts in the `database` folder to create the schema and populate dummy data.
-3. **Client Setup**:
+2. **Client Setup**:
    - Navigate to the `client` folder in your terminal.
    - Install dependencies using `npm install`.
    - Start the client using `npm start`.
