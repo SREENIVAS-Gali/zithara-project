@@ -21,7 +21,7 @@ The project structure is as follows:
 ## Setup
 1. **Clone the Repository**: Clone this GitHub repository to your local machine.
 2. **Database Setup**: Set up a PostgreSQL database and run the scripts in the `database` folder to create the schema and populate dummy data.
-3. **Server Setup**: Navigate to the `server` folder, install dependencies using `npm install pg`, and start the server using `npm run server`.
+3. **Server Setup**: Navigate to the `server` folder, install dependencies using `npm install`, and start the server using `npm run server`.
 4. **Client Setup**: Navigate to the `client` folder, install dependencies using `npm install`, and start the client using `npm start`.
 5. **Access the Application**: Open your web browser and navigate to the URL where the client is running to access the application.
 
@@ -40,7 +40,7 @@ The setup instructions for both the server and client:
 2. **Database Setup**: Set up a PostgreSQL database and run the scripts in the `database` folder to create the schema and populate dummy data.
 3. **Server Setup**:
    - Navigate to the `server` folder in your terminal.
-   - Install dependencies using `npm install pg`.
+   - Install dependencies using `npm install`.
    - Start the server using `npm run server`.
 
 
