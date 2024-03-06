@@ -8,8 +8,8 @@ const SortDropdown = ({ sortBy, setSortBy, filterType, setFilterType }) => {
     if (sortBy === "TIME" || sortBy === "DATE") {
       return (
         <>
-          <option value="ASC">Latest</option>
-          <option value="DESC">Oldest</option>
+          <option value="ASC">Oldest</option>
+          <option value="DESC">Latest</option>
         </>
       );
     } else {
